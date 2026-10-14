@@ -1,0 +1,24 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Build & Compilation Artifacts
+build/
+swift_cache/
+antigravity-retry
+AntigravityRetry.app/
+live_ocr_test
+test_scan_window
+
+# Swift & Xcode
+.build/
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+
+# Logs
+*.log
